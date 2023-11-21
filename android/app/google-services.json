@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377841965044",
+    "project_id": "doktor-plus-2c5bf",
+    "storage_bucket": "doktor-plus-2c5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377841965044:android:3e89f9ecee1235d8e04ba1",
+        "android_client_info": {
+          "package_name": "com.example.doktor_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5N3HDibHOcUzMdwET2Gj9odX6IUcVNTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
