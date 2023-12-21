@@ -134,35 +134,35 @@ samples, guidance on mobile development, and a full API reference.
 
 <div align="center">
 
-![a1](https://github.com/ay-india/Doktor_Plus/assets/96453772/dd292394-39d2-4d13-9f91-ff204fe9b461)
-![a2](https://github.com/ay-india/Doktor_Plus/assets/96453772/4fd8a1d8-94ec-4692-9da0-0722dd025959)
-![a3](https://github.com/ay-india/Doktor_Plus/assets/96453772/427e5697-7c5f-4f49-aef4-f027a259b50a)
-![a4](https://github.com/ay-india/Doktor_Plus/assets/96453772/15c5e662-d0fb-4262-a7f9-9f153364360b)
-![a5](https://github.com/ay-india/Doktor_Plus/assets/96453772/2d7b950b-326e-420a-a935-bc4f6df5cc1d)
-![a6](https://github.com/ay-india/Doktor_Plus/assets/96453772/9978e0f2-16ce-42d0-9594-a754e19f2e5f)
-![a7](https://github.com/ay-india/Doktor_Plus/assets/96453772/dc487406-ef79-4e51-b741-51d25f7287e0)
-![a8](https://github.com/ay-india/Doktor_Plus/assets/96453772/adc2d070-f737-4e85-a210-eeea027e95ec)
-![a9](https://github.com/ay-india/Doktor_Plus/assets/96453772/136b8537-fe30-448e-b484-37d3d7d95831)
-![a10](https://github.com/ay-india/Doktor_Plus/assets/96453772/aab4e4c7-d539-4465-aaa0-36e3f1a49e0b)
-![b1](https://github.com/ay-india/Doktor_Plus/assets/96453772/08e40cdf-75f2-4a68-9338-9f562b2063a6)
-![b2](https://github.com/ay-india/Doktor_Plus/assets/96453772/fafe5c6d-93da-4f0b-a24a-2ab680495567)
-![b3](https://github.com/ay-india/Doktor_Plus/assets/96453772/907f10dc-b1e3-4186-a168-5d3bb69fc965)
-![b4](https://github.com/ay-india/Doktor_Plus/assets/96453772/0c0e703f-cb71-4fd1-8f32-d5e896e005c5)
-![b5](https://github.com/ay-india/Doktor_Plus/assets/96453772/b4e886c4-3f1b-4f1c-a31b-c1c7b6a4bcc0)
-![b6](https://github.com/ay-india/Doktor_Plus/assets/96453772/253de892-7d76-431a-96ba-a186d6b9c280)
-![b7](https://github.com/ay-india/Doktor_Plus/assets/96453772/e6a725b1-6e7b-4fda-bcce-228cf077e5f6)
-![b8](https://github.com/ay-india/Doktor_Plus/assets/96453772/0de9d1a8-7dc6-4762-ac30-8140818a5fa8)
-![b9](https://github.com/ay-india/Doktor_Plus/assets/96453772/05472ab3-b9de-484a-be18-11962d7ed9f3)
-![b10](https://github.com/ay-india/Doktor_Plus/assets/96453772/0d3c9735-b470-4d74-87c0-65bcbdf04d60)
-![c1](https://github.com/ay-india/Doktor_Plus/assets/96453772/97ec9c27-d8ad-4847-8eb3-2047fb0ee7d5)
-![c2](https://github.com/ay-india/Doktor_Plus/assets/96453772/33e9511e-487e-48c3-82b2-278dd305a34c)
-![c3](https://github.com/ay-india/Doktor_Plus/assets/96453772/453f9df3-54e1-41a2-bc60-b27536774690)
-![c4](https://github.com/ay-india/Doktor_Plus/assets/96453772/444b1109-1cdf-45ea-9fee-a60bf258039c)
-![c5](https://github.com/ay-india/Doktor_Plus/assets/96453772/62fd44d5-f83e-4dc8-8e41-3d49ac06103f)
-![c6](https://github.com/ay-india/Doktor_Plus/assets/96453772/a3a6ebc3-d820-4bb7-bf97-3c5ac66cea5a)
-![c7](https://github.com/ay-india/Doktor_Plus/assets/96453772/e847bed8-00ca-4885-9537-5bb2250e62c4)
-![c8](https://github.com/ay-india/Doktor_Plus/assets/96453772/dee96528-997a-47b1-a886-2bed8f0c0b70)
-![c9](https://github.com/ay-india/Doktor_Plus/assets/96453772/2f72b4c7-caa1-4404-b07e-b3d30d151733)
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/dd292394-39d2-4d13-9f91-ff204fe9b461" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/4fd8a1d8-94ec-4692-9da0-0722dd025959" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/427e5697-7c5f-4f49-aef4-f027a259b50a" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/15c5e662-d0fb-4262-a7f9-9f153364360b" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/2d7b950b-326e-420a-a935-bc4f6df5cc1d" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/9978e0f2-16ce-42d0-9594-a754e19f2e5f" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/dc487406-ef79-4e51-b741-51d25f7287e0" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/adc2d070-f737-4e85-a210-eeea027e95ec" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/136b8537-fe30-448e-b484-37d3d7d95831" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/aab4e4c7-d539-4465-aaa0-36e3f1a49e0b" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/08e40cdf-75f2-4a68-9338-9f562b2063a6" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/fafe5c6d-93da-4f0b-a24a-2ab680495567" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/907f10dc-b1e3-4186-a168-5d3bb69fc965" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/0c0e703f-cb71-4fd1-8f32-d5e896e005c5" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/b4e886c4-3f1b-4f1c-a31b-c1c7b6a4bcc0" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/253de892-7d76-431a-96ba-a186d6b9c280" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/e6a725b1-6e7b-4fda-bcce-228cf077e5f6" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/0de9d1a8-7dc6-4762-ac30-8140818a5fa8" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/05472ab3-b9de-484a-be18-11962d7ed9f3" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/0d3c9735-b470-4d74-87c0-65bcbdf04d60" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/97ec9c27-d8ad-4847-8eb3-2047fb0ee7d5" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/33e9511e-487e-48c3-82b2-278dd305a34c" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/453f9df3-54e1-41a2-bc60-b27536774690" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/444b1109-1cdf-45ea-9fee-a60bf258039c" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/62fd44d5-f83e-4dc8-8e41-3d49ac06103f" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/a3a6ebc3-d820-4bb7-bf97-3c5ac66cea5a" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/e847bed8-00ca-4885-9537-5bb2250e62c4" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/dee96528-997a-47b1-a886-2bed8f0c0b70" width="360" height="720" />
+<img src="https://github.com/ay-india/Doktor_Plus/assets/96453772/2f72b4c7-caa1-4404-b07e-b3d30d151733" width="360" height="720" />
 
 
 
